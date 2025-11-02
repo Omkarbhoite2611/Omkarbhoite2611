@@ -9,7 +9,7 @@
 
 ### 🔭 About
 - Focus: **Python**, automation, small data projects, and practical scripts.
-- Tools: PyCharm, Git, GitHub, Jupyter Notebook, REST APIs.
+- Tools: PyCharm, Git, GitHub, Jupyter Notebook, CSV/JSON, REST APIs.
 - Current goal: Build a portfolio of 5 meaningful projects (CLI + small API clients + data analysis).
 
 ---
@@ -51,3 +51,4 @@
 ---
 
 ⭐ *No show-off quotes. Real code and consistent commits.*  
+
